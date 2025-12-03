@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
