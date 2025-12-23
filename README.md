@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
 | ------- |
