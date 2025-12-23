@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0268-missing-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1925-count-square-sum-triples) |
@@ -34,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
