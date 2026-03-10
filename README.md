@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Tree
 |  |
 | ------- |
