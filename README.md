@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0868-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Stack
 |  |
 | ------- |
