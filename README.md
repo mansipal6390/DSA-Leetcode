@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0367-valid-perfect-square) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1390-four-divisors](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
 |  |
 | ------- |
