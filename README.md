@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1390-four-divisors](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1390-four-divisors) |
 | [1480-running-sum-of-1d-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1980-find-unique-binary-string](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1980-find-unique-binary-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0389-find-the-difference) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Bit Manipulation
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Prefix Sum
 |  |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Matrix
+|  |
+| ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 <!---LeetCode Topics End-->
