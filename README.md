@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1390-four-divisors) |
 | [1480-running-sum-of-1d-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1980-find-unique-binary-string](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1980-find-unique-binary-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1390-four-divisors](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1925-count-square-sum-triples](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1925-count-square-sum-triples) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
