@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0367-valid-perfect-square) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
