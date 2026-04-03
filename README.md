@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0070-climbing-stairs) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0326-power-of-three) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Simulation
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
