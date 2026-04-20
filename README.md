@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1980-find-unique-binary-string](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2906-construct-product-matrix](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2906-construct-product-matrix) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Prefix Sum
 |  |
