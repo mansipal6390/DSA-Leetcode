@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2906-construct-product-matrix) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1980-find-unique-binary-string](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2615-sum-of-distances](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2615-sum-of-distances](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2906-construct-product-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
