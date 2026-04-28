@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1980-find-unique-binary-string](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1925-count-square-sum-triples](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1925-count-square-sum-triples) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2906-construct-product-matrix](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2906-construct-product-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Memoization
