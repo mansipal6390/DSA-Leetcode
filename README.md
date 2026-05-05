@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0344-reverse-string) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0061-rotate-list) |
 ## Database
 |  |
 | ------- |
