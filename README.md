@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3660-jump-game-ix](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3660-jump-game-ix) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2615-sum-of-distances](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Math
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3783-mirror-distance-of-an-integer](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
 |  |
@@ -289,8 +292,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0796-rotate-string) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
