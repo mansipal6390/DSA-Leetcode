@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1914-cyclically-rotating-a-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1914-cyclically-rotating-a-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Sliding Window
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1914-cyclically-rotating-a-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2906-construct-product-matrix](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2906-construct-product-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
