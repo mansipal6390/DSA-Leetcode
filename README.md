@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0494-target-sum) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0389-find-the-difference) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0912-sort-an-array) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [2833-furthest-point-from-origin](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Enumeration
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Heap (Priority Queue)
