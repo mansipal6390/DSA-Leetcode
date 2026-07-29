@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0874-walking-robot-simulation](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0912-sort-an-array) |
+| [1019-next-greater-node-in-linked-list](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1306-jump-game-iii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1390-four-divisors) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [1019-next-greater-node-in-linked-list](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0061-rotate-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Database
 |  |
 | ------- |
@@ -336,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
