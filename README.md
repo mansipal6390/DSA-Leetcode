@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3310-remove-methods-from-project](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3310-remove-methods-from-project](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## String Matching
 |  |
@@ -365,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
