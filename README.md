@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3731-find-missing-elements](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Matrix
 |  |
 | ------- |
