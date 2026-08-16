@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2029-stone-game-ix](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1925-count-square-sum-triples](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1925-count-square-sum-triples) |
+| [2029-stone-game-ix](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0383-ransom-note) |
+| [2029-stone-game-ix](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Enumeration
 |  |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2029-stone-game-ix](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -405,11 +410,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 ## Quicksort
 |  |
 | ------- |
@@ -418,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0075-sort-colors) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
