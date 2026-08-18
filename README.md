@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3731-find-missing-elements](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
