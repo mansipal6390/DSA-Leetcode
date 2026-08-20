@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0268-missing-number) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0509-fibonacci-number) |
