@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0874-walking-robot-simulation](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0912-sort-an-array) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
