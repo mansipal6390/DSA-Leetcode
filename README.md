@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0874-walking-robot-simulation](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1140-stone-game-ii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1140-stone-game-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0696-count-binary-substrings) |
+| [0905-sort-array-by-parity](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
