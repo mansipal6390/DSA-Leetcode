@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2029-stone-game-ix](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2652-sum-multiples](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
