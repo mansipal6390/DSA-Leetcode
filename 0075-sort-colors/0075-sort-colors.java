@@ -12,7 +12,28 @@ class Solution {
             nums[min] = nums[i];
             nums[i] = minpos;
         }
+    
 
+      //// by using ductch national falag algorithim
+
+
+
+    //   int low =0;
+    //   int mid  = 0;
+    //   int high = n-1;
+    // while(low<mid){
+    //     if(nums[mid] ==0){
+    //         nums[mid] = nums[low];
+    //         low++;
+    //         mid++;
+    //     }else if (nums[mid]==2){
+    //         nums[mid] = nums[high];
+    //         high--;
+    //     }
+   // }
+
+    
+       
         
     }
 }
