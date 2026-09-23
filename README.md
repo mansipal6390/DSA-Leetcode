@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0509-fibonacci-number) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0868-binary-gap) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
