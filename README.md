@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0696-count-binary-substrings) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0409-longest-palindrome) |
