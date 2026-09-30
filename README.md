@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0326-power-of-three) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Database
