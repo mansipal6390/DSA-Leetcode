@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0874-walking-robot-simulation](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0874-walking-robot-simulation) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0706-design-hashmap) |
 | [0874-walking-robot-simulation](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0706-design-hashmap) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Database
 |  |
@@ -565,10 +568,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0706-design-hashmap) |
 ## Binary Indexed Tree
 |  |
 | ------- |
