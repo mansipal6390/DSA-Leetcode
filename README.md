@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1140-stone-game-ii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1140-stone-game-ii) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-jump-game-iii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1390-four-divisors) |
