@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-jump-game-iii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1406-stone-game-iii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0367-valid-perfect-square) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Two Pointers
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0905-sort-array-by-parity) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
