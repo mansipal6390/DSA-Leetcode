@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0136-single-number) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0231-power-of-two) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Counting
