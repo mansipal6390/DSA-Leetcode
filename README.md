@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0075-sort-colors) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1980-find-unique-binary-string) |
