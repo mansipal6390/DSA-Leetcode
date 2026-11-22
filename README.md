@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -392,11 +393,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0386-lexicographical-numbers) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Recursion
