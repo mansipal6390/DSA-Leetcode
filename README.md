@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0997-find-the-town-judge) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1140-stone-game-ii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1140-stone-game-ii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0706-design-hashmap) |
 | [0874-walking-robot-simulation](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0874-walking-robot-simulation) |
+| [0997-find-the-town-judge](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0997-find-the-town-judge) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1980-find-unique-binary-string](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0997-find-the-town-judge](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0997-find-the-town-judge) |
 | [3310-remove-methods-from-project](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Minimax
 |  |
