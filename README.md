@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -558,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0617-merge-two-binary-trees](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0994-rotting-oranges](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1306-jump-game-iii) |
