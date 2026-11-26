@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0785-is-graph-bipartite](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0617-merge-two-binary-trees](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0785-is-graph-bipartite](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mansipal6390/DSA-Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [3310-remove-methods-from-project](https://github.com/mansipal6390/DSA-Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Minimax
 |  |
@@ -693,4 +697,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/mansipal6390/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
